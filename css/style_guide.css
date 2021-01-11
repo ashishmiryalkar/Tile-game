@@ -1,0 +1,90 @@
+body {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.box {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.fonts-box {
+  width: 45%;
+  padding-right: 30px;
+  display: inline-block;
+}
+
+.color-text {
+  font-size: 1.2em;
+}
+
+.color-box {
+    min-width: 200px;
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 10px;
+}
+
+.background-color-coolblue {
+  background-color: #2d5dcc;
+}
+
+.text-color-white {
+  color: white;
+}
+
+.background-color-pink {
+  background-color: pink;
+}
+
+.background-color-Beige{
+  background-color: beige;
+}
+
+.background-color-mintgreen {
+  background-color: #4fe0b0;
+}
+
+.small-padding {
+  padding: 10px;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 1.5em;
+  text-transform: capitalize;
+}
+
+.fonts-box-heading {
+  text-transform: capitalize;
+  text-decoration: underline;
+  font-size: 1.3em;
+}
+
+.more-letter-spacing {
+  letter-spacing: 0.1em;
+}
+
+.font-Piazzolla{
+  font-family: "Piazzolla";
+}
+
+.font-Sansita-Swashed {
+  font-family: "Sansita Swashed";
+}
+
+.font-Work-Sans{
+  font-family: "Work Sans";
+}
+
+#images img {
+  width: 20%;
+}
+
+#images div{
+  display: inline;
+}
